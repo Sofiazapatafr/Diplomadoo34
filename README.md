@@ -1,5 +1,5 @@
 # Diplomadoo34
-# Hola, soy Rossember Edén Cardenas Torres: 👋
+# Hola, soy Sofia Daniela Zapata Franco: 👋
 
 Me gusta enseñar :man_teacher: y me gusta la programación, las matemáticas.
 
