@@ -11,27 +11,11 @@ Soy estudiante de Ingenieria Industrial e Ingenieria en Energias Renovables :man
 <img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%230095D5.svg?&style=flat&logo=numpy&logoColor=white" height="20"/>&nbsp;<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=flat&logo=pandas&logoColor=white" height="20" />&nbsp;<img alt="SymPy" src="https://img.shields.io/badge/SymPy%20-%23239120.svg?&style=flat&logo=sympy&logoColor=white" height="20" /> &nbsp;<img alt="scipy" src="https://img.shields.io/badge/scipy%20-%23117AC9.svg?&style=flat&logo=scipy&logoColor=white" height="20" />&nbsp;<img alt="plotly" src="https://img.shields.io/badge/plotly%20-%233B4D98.svg?&style=flat&logo=plotly&logoColor=white" height="20" />&nbsp;<img alt="scikit" src="https://img.shields.io/badge/scikit%20-%23FF9900.svg?&style=flat&logo=scikit-learn&logoColor=white" height="20" />&nbsp;<img alt="tensorflow" src="https://img.shields.io/badge/tensorflow%20-%23FF6F00.svg?&style=flat&logo=tensorflow&logoColor=white" height="20" />&nbsp;<img alt="keras" src="https://img.shields.io/badge/keras%20-%23D00000.svg?&style=flat&logo=keras&logoColor=white" height="20" />
 
 ## Interests
-- Matematicas
-- Fisica
-- Quimica
-- Inteligencia Artificial
-- Optimizacion de proceos
+- Machine Learning
+- Big Data
+- Mathematical Modeling
+- Drug Solubility
 
 ## 📬 Contacto
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofia-zapata-6984ab21b/)](https://www.linkedin.com/in/sofia-zapata-6984ab21b/)
-
-<!--
-**erivera23/erivera23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
