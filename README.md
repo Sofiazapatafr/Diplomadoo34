@@ -19,7 +19,7 @@ Soy estudiante de Ingenieria Industrial e Ingenieria en Energias Renovables :man
 
 ## 📬 Contacto
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rossember-eden-cardenas-torres-928629192/)](www.linkedin.com/in/sofia-zapata-6984ab21b/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sofia-zapata-6984ab21b/)](www.linkedin.com/in/sofia-zapata-6984ab21b/)
 <!--
 **erivera23/erivera23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
